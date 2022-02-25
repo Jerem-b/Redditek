@@ -9,7 +9,7 @@
 
 - Installer les dépendances:
 
-`npm install`
+`cd android; npm install; cd ..`
 
 - A faire à chaque fois pour tester:
     - Aller dans le dossier android situé dans le dossier root
